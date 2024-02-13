@@ -1,12 +1,8 @@
-![logo](https://github.com/imranhss/imranhss/blob/main/github-contribution-grid-snake-dark.svg)
+![logo](https://github.com/mrahmed17/mrahmed17/blob/main/github-contribution-grid-snake-dark.svg)
 
 <h1 align="center">Hi 👋, I'm Md. Raju Ahmed</h1>
 <h3 align="center">Programming Lover and Learner</h3>
-<p align="left"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture></p>
+
 
 <picture alt="Your Weather" align="right" width="300px" height="200px">
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
