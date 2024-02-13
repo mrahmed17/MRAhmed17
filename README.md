@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranhss&label=Profile%20views&color=0e75b6&style=flat" alt="mrahmed17" /> </p>
 
-<img src="giphy.gif" alt="coding" align="right" width="250px" height="200px">
+<img src="giphy.gif" alt="coding" align="right" width="250px" height="150px">
 
 <!-- - 🔭 I’m currently Learnnig on [IsDB-BISEW Project](As a JEE Trainee) -->
 
