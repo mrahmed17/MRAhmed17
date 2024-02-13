@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Md. Raju Ahmed</h1>
 <h3 align="center">Programming Lover and Learner</h3>
+<p align="left"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmed17&abbreviated=true&label=Profile%20views&color=brightgreen&style=flat" alt="mrahmed17" /> </p>
 
