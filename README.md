@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md. Raju Ahmed</h1>
 <h3 align="center">Programming Lover and Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=brightgreen&style=flat" alt="mrahmed17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmed17&abbreviated=true&label=Profile%20views&color=brightgreen&style=flat" alt="mrahmed17" /> </p>
 
 <img src="giphy.gif" alt="coding" align="right" width="300px" height="200">
 
