@@ -13,7 +13,7 @@
 
 - 📫 Reach me **mrahmed1796@gmail.com**
 
-- 📄 Know about my experiences [mrahmed.com]
+- 📄 Know about my experiences (mrahmed.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
