@@ -7,13 +7,13 @@
 
 <img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
 
-<!-- - 🔭 I’m currently Learnnig on [IsDB-BISEW Project](As a JEE Trainee) -->
+- 🌱 I’m currently learning **under IsDB-BISEW Scholarship Project**
 
-- 🌱 I’m currently learning **JEE, under IsDB-BISEW Scholarship Project**
+- 🔭 I’m currently learnnig **"Web & Mobile App Development" in (CCSL) Center for Computer Studies Ltd.**
 
 - 📫 Reach me **mrahmed1796@gmail.com**
 
-- 📄 Know about my experiences [mrahmed.com] (www.mrahmed.com)
+- 📄 Know about my experiences [mrahmed.com]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
