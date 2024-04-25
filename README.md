@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Raju Ahmed</h1>
-![logo](https://github.com/mrahmed17/mrahmed17/blob/main/github-contribution-grid-snake-dark.svg)
+<h1 align="center">Hi 👋, I'm Md. Raju Ahmed</h1> ![logo](https://github.com/mrahmed17/mrahmed17/blob/main/github-contribution-grid-snake-dark.svg)
 
 <h4 align="center">Programming Lover and Learner</h4>
 
