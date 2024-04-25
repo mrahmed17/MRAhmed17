@@ -1,6 +1,6 @@
+<h1 align="center">Hi 👋, I'm Md. Raju Ahmed</h1>
 ![logo](https://github.com/mrahmed17/mrahmed17/blob/main/github-contribution-grid-snake-dark.svg)
 
-<h1 align="center">Hi 👋, I'm Md. Raju Ahmed</h1>
 <h4 align="center">Programming Lover and Learner</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="mrahmed17" /> </p>
