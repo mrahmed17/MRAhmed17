@@ -1,4 +1,4 @@
-![logo](https://github.com/mrahmed17/HomePage/blob/main/github-contribution-grid-snake-dark.svg)
+![logo](https://github.com/mrahmed17/mrahmed17/blob/main/github-contribution-grid-snake-dark.svg)
 
 <h1 align="center">Hi 👋, I'm Md. Raju Ahmed</h1> 
 <h4 align="center">Programming Lover and Learner</h4>
