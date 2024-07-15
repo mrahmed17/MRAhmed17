@@ -1,4 +1,4 @@
-![logo](https://github.com/mrahmed17/MRAhmed17/blob/main/github-contribution-grid-snake-dark.svg)
+![logo](https://github.com/mrahmed17/HomePage/blob/main/github-contribution-grid-snake-dark.svg)
 
 <h1 align="center">Hi 👋, I'm Md. Raju Ahmed</h1> 
 <h4 align="center">Programming Lover and Learner</h4>
@@ -60,5 +60,5 @@
 &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Raju Ahmed" /></p>
 
  &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mrahmed17)
- &nbsp;![GitHub metrics][(https://metrics.lecoq.io/mrahmed17)](https://metrics.lecoq.io/insights/mrahmed17)
+ &nbsp;![GitHub metrics][(https://metrics.lecoq.io/insights/mrahmed17)](https://metrics.lecoq.io/insights/mrahmed17)
  
