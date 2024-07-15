@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Md. Raju Ahmed</h1> 
 <h4 align="center">Programming Lover and Learner</h4>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed" /> </p>
+<div><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed" /> </p></div>
 
 <img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
 
@@ -60,4 +60,5 @@
 &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Raju Ahmed" /></p>
 
  &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mrahmed17)
- &nbsp;![GitHub metrics](https://metrics.lecoq.io/mrahmed17)
+ &nbsp;![GitHub metrics][(https://metrics.lecoq.io/mrahmed17)](https://metrics.lecoq.io/insights/mrahmed17)
+ 
