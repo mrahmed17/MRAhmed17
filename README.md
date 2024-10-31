@@ -1,7 +1,7 @@
 ![logo](https://github.com/mrahmed17/mrahmed17/blob/main/github-contribution-grid-snake-dark.svg)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">👋, I'm Md. Raju Ahmed</h1> 
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">I'm Md. Raju Ahmed</h1> 
 <h4 align="center">Programming Lover and Learner</h4>
 <div><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed" /> </p></div>
@@ -134,8 +134,8 @@
 </p> -->
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrahmed17) 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahmed17&show_icons=true&locale=en&layout=compact" alt="Md. Raju Ahmed"/>
-&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Raju Ahmed" /></p>  
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahmed17&show_icons=true&locale=en&layout=compact" alt="Md. Raju Ahmed"/>
+<!-- &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Raju Ahmed" /></p>  
 
  &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mrahmed17)  -->
  <!-- &nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mrahmed17) -->
