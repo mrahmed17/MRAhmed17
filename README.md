@@ -102,7 +102,7 @@
 </p>
 <!-- <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  -->
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 
 </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
@@ -130,14 +130,14 @@
 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
-</p>
+</p> -->
 
- <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrahmed17)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahmed17&show_icons=true&locale=en&layout=compact" alt="Md. Raju Ahmed"/>
-&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Raju Ahmed" /></p>  -->
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrahmed17) 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahmed17&show_icons=true&locale=en&layout=compact" alt="Md. Raju Ahmed"/>
+&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Raju Ahmed" /></p>  
 
- &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mrahmed17)
- <!--&nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mrahmed17)
+ &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mrahmed17)  -->
+ <!-- &nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mrahmed17) -->
 
 
 
