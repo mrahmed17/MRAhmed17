@@ -138,7 +138,7 @@
  &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Raju Ahmed" /></p>  
          
  &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mrahmed17)
- &nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mrahmed17)
+<!-- &nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mrahmed17) -->
 
 
 
