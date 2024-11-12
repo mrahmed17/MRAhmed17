@@ -13,8 +13,13 @@
 <img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
 
 - 🌱 Currently learning **"Web & Mobile App Development" at (CCSL) Center for Computer Studies Ltd. under IsDB-BISEW Scholarship Project**
-- :fireworks: 🔭 **Passionate Full Stack Java Developer, focusing on Angular, Spring Boot, Android, and Flutter. Solving complex problems and building robust applications.**
-- 📫 Reach me **mrahmed1796@gmail.com**
+- :fireworks: 🔭 **Passionate Full Stack JAVA Developer. Solving complex problems and building robust applications.**
+- :book: I’m currently learning many things, and I believe that every day is an opportunity to learn.
+- 👯 I’m currently open for work and employment opportunities (office, remote and relocation)
+- 💬 Ask me about JAVA, Angular, Spring Boot, Android, and Flutter development.
+- 📫 I am just one mail away - **mrahmed1796@gmail.com**
+- 😄 Pronouns: He, Mr. Gentleman & Happy 😄
+- :partying_face: Fun fact: I love to cook, I love to music, I love to travel on Train.
 
 <!-- - 📄 Know about my experiences [mrahmed.com](www.mrahmed.com) -->
 
@@ -140,7 +145,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a>  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a> <a href="https://linkedin.com/in/mrahmed17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a> <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a> </p>
 
+<!-- 
 ### Where to find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrahmed17/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/)
+-->
