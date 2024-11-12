@@ -20,17 +20,7 @@
                 <img src="giphy1.webp" alt="coding" align="right" width="300px" height="200px">
         </div>
 </div>
-<div class="row">
-        <div class="col-md-4">
-                <img src="giphy (1).webp" alt="coding" align="right" width="300px" height="200px">
-        </div>
-        <div class="col-md-4">
-                <img src="Funny Cat.gif" alt="coding" align="right" width="300px" height="200px">
-        </div>
-        <div class="col-md-4">
-                <img src="giphy (3).webp" alt="coding" align="right" width="300px" height="200px">
-        </div>
-</div>
+
 
 | About Me | Details |
 | -------- | ------- |
@@ -193,6 +183,18 @@
 | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://linkedin.com/in/mrahmed17) | [LinkedIn](https://linkedin.com/in/mrahmed17) |
 | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />](https://www.youtube.com/) | [YouTube](https://www.youtube.com/) |
 
+
+<div class="row">
+        <div class="col-md-4">
+                <img src="giphy (1).webp" alt="coding" align="right" width="300px" height="200px">
+        </div>
+        <div class="col-md-4">
+                <img src="Funny Cat.gif" alt="coding" align="right" width="300px" height="200px">
+        </div>
+        <div class="col-md-4">
+                <img src="giphy (3).webp" alt="coding" align="right" width="300px" height="200px">
+        </div>
+</div>
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a>  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a> <a href="https://linkedin.com/in/mrahmed17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a> <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a> </p>
