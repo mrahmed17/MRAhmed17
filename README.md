@@ -98,35 +98,71 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![XML](https://img.shields.io/badge/XML-8A2BE2?style=flat-square)
+
+### Front-End Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
 ### Back-End Development
 ![Core Java](https://img.shields.io/badge/Core%20Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Advanced Java](https://img.shields.io/badge/Advanced%20Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square)
-![JSP](https://img.shields.io/badge/JSP-FF7800?style=flat-square)
-![Servlets](https://img.shields.io/badge/Servlets-3C873A?style=flat-square)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![XML](https://img.shields.io/badge/XML-8A2BE2?style=flat-square)
+![JSP](https://img.shields.io/badge/JSP-FF7800?style=flat-square)
+![Java Servlets](https://img.shields.io/badge/Java%20Servlets-3C873A?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-4285F4?style=flat-square)
+
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white)
-### Design & Architecture
-![UML](https://img.shields.io/badge/UML-008080?style=flat-square)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Pro Spring](https://img.shields.io/badge/Pro%20Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![NoSQL](https://img.shields.io/badge/NoSQL-FF6C37?style=flat-square&logo=nosql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
 ### Mobile & UI Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white)
-![JavaServer Faces (JSF)](https://img.shields.io/badge/JSF-007396?style=flat-square&logo=java&logoColor=white)
-### Tools and Debugging
+![JSF](https://img.shields.io/badge/JSF-007396?style=flat-square&logo=java&logoColor=white)
+
+### Design & Architecture
+![UML](https://img.shields.io/badge/UML-008080?style=flat-square)
+![Pro Spring](https://img.shields.io/badge/Pro%20Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+### Software Development Concepts
+![MVC](https://img.shields.io/badge/MVC-008080?style=flat-square)
+![API](https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=api&logoColor=white)
+![Java Web Applications](https://img.shields.io/badge/Java%20Web%20Applications-007396?style=flat-square&logo=java&logoColor=white)
+![Business Logic](https://img.shields.io/badge/Business%20Logic-FFA500?style=flat-square)
+
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Debugging Tools
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![Microsoft Edge DevTools](https://img.shields.io/badge/Edge%20DevTools-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+
+### Other Skills
+![Code Review](https://img.shields.io/badge/Code%20Review-008080?style=flat-square)
+![Software Deployment](https://img.shields.io/badge/Software%20Deployment-FFA500?style=flat-square)
 ![Microsoft Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+
 </p>
 
 
