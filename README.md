@@ -13,9 +13,7 @@
 <img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
 
 - 🌱 Currently learning **"Web & Mobile App Development" at (CCSL) Center for Computer Studies Ltd. under IsDB-BISEW Scholarship Project**
-
 - :fireworks: 🔭 **Passionate Full Stack Java Developer, focusing on Angular, Spring Boot, Android, and Flutter. Solving complex problems and building robust applications.**
-
 - 📫 Reach me **mrahmed1796@gmail.com**
 
 <!-- - 📄 Know about my experiences [mrahmed.com](www.mrahmed.com) -->
