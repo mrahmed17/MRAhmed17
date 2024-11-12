@@ -58,24 +58,17 @@
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35"
             height="35" />
     </a>
-<!--     <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img
+<!--   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35" />
     </a> -->
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="35" height="35" />
     </a>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-        
-<!--     <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"> <img
+     <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="35" height="35" />
-    </a> -->
+    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="35" height="35" />
@@ -103,6 +96,12 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" title="SQLite"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 </a>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 <!--     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Illustrator"> <img
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
