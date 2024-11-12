@@ -9,9 +9,17 @@
         &nbsp;
         <p> <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed17"/> </p>
 </div>
-
-<img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
-
+<div class="row">
+        <div class="col-md-4">
+                <img src="Funny Cat.gif" alt="Funny Cat" align="right" width="300px" height="200px">
+        </div>
+        <div class="col-md-4">
+                <img src="giphy0.webp" alt="coding" align="right" width="300px" height="200px">
+        </div>
+        <div class="col-md-4">
+                <img src="giphy1.webp" alt="coding" align="right" width="300px" height="200px">
+        </div>
+</div>
 
 | About Me | Details |
 | -------- | ------- |
