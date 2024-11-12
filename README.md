@@ -9,18 +9,6 @@
         &nbsp;
         <p> <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed17"/> </p>
 </div>
-<div class="row">
-        <div class="col-md-4">
-                <img src="giphy (2).webp" alt="coding" align="right" width="300px" height="200px">
-        </div>
-        <div class="col-md-4">
-                <img src="giphy0.webp" alt="coding" align="right" width="300px" height="200px">
-        </div>
-        <div class="col-md-4">
-                <img src="giphy1.webp" alt="coding" align="right" width="300px" height="200px">
-        </div>
-</div>
-
 
 | About Me | Details |
 | -------- | ------- |
@@ -183,7 +171,18 @@
 | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://linkedin.com/in/mrahmed17) | [LinkedIn](https://linkedin.com/in/mrahmed17) |
 | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />](https://www.youtube.com/) | [YouTube](https://www.youtube.com/) |
 
-
+<div class="row">
+        <div class="col-md-4">
+                <img src="giphy (2).webp" alt="coding" align="right" width="300px" height="200px">
+        </div>
+        <div class="col-md-4">
+                <img src="giphy0.webp" alt="coding" align="right" width="300px" height="200px">
+        </div>
+        <div class="col-md-4">
+                <img src="giphy1.webp" alt="coding" align="right" width="300px" height="200px">
+        </div>
+</div>
+&nbsp;
 <div class="row">
         <div class="col-md-4">
                 <img src="giphy (1).webp" alt="coding" align="right" width="300px" height="200px">
