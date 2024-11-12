@@ -8,98 +8,103 @@
 
 <img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
 
-- 🌱 Currently I’m learning **under IsDB-BISEW Scholarship Project**
+- 🌱 Currently learning **"Web & Mobile App Development" at (CCSL) Center for Computer Studies Ltd. under IsDB-BISEW Scholarship Project**
 
-- 🔭 Currently I’m learning **"Web & Mobile App Development" in (CCSL) Center for Computer Studies Ltd.**
+- 🔭 Currently I’m learning **Passionate Full Stack Java Developer, focusing on Angular, Spring Boot, Android, and Flutter. Solving complex problems and building robust applications.**
 
 - 📫 Reach me **mrahmed1796@gmail.com**
 
-- 📄 Know about my experiences [mrahmed.com](www.mrahmed.com)
+<!-- - 📄 Know about my experiences [mrahmed.com](www.mrahmed.com) -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://fb.com/tamim.raju.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a>  <a href="https://twitter.com/mrahmed17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a> <a href="https://linkedin.com/in/mrahmed17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a> <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a> </p>
+<p align="left"> <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a>  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a> <a href="https://linkedin.com/in/mrahmed17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a> <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="40" height="35"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="35"/> </a>  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>  -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
+            width="35" height="35" />
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35" />
     </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman"> <img
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35"
+            height="35" /> </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer" title="Angular">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="35" height="35" />
     </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <a href="https://angular.io" target="_blank" rel="noreferrer title="Angular.io"">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-            alt="angularjs" width="40" height="40" />
+            alt="angularjs" width="35" height="35" />
     </a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer" title="Android">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" />
+            alt="android" width="35" height="35" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
+            alt="mysql" width="35" height="35" />
     </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" title="Oracle">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" />
+            alt="oracle" width="35" height="35" />
     </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer" title="Dart">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35" height="35" />
     </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer" title="Flutter">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
-            height="40" />
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35"
+            height="35" />
     </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
+<!--     <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35" />
+    </a> -->
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
+            alt="typescript" width="35" height="35" />
     </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+<!--     <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" />
-    </a>
+            alt="docker" width="35" height="35" />
+    </a> -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
+            alt="html5" width="35" height="35" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
+            alt="css3" width="35" height="35" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" />
+            alt="bootstrap" width="35" height="35" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
         title="JavaScript">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
+            alt="javascript" width="35" height="35" />
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" />
     </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
+        
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" title="SQLite"> 
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+</a>
+
+<!--     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Illustrator"> <img
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" />
+            width="35" height="35" />
     </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="Photoshop"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" />
-    </a>
+            alt="photoshop" width="35" height="35" />
+    </a> -->
 </p>
 <!-- <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  -->
 
@@ -133,10 +138,18 @@
 
 </p> -->
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrahmed17) 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahmed17&show_icons=true&locale=en&layout=compact" alt="Md. Raju Ahmed"/>
- &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Raju Ahmed" /></p>  
+### Numbers
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrahmed17)
+ <p>
+<!--          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahmed17&show_icons=true&locale=en&layout=compact" alt="Md. Raju Ahmed"/> -->
          
+ &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Raju Ahmed" /></p>  
+
+![MRAhmed17's Stats](https://github-readme-stats.vercel.app/api?username=mrahmed17&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![mrahmed17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrahmed17&theme=darcula&hide_border=true)
+
+![mrahmed17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmed17&theme=darcula&show_icons=true&hide_border=true&layout=compact)
  &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mrahmed17)
 <!-- &nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mrahmed17) -->
 
@@ -189,22 +202,22 @@ I love to read books and listen to music.
 - 😄 Pronouns: He, Fat & Happy 😄
 - :partying_face: Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.
 - :book: My books - I have written four books, "Object Oriented Programming with PHP", "WordPress Complete", "Facebook App Development" and "Smarty"
-- :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
+- :wrench: Tools - VSCode, Insomnia, Beekeeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker, and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
 - :envelope_with_arrow: I run a weekly newsletter service for the developers, [Developers Treasure Chest](https://newsletter.hasin.me) where you will find a curated list of awesome resources.
-- :busts_in_silhouette: I actively manage a few popular Facebok groups - [WordPressians](https://www.facebook.com/groups/241884142616448), [Talk.js](https://www.facebook.com/groups/talkjs.net), [phpXperts](https://www.facebook.com/groups/256755924335725), [Laravel Bangladesh](https://www.facebook.com/groups/188317497974479), and [ReactJS Bangladesh](https://www.facebook.com/groups/903615493305779)
+- :busts_in_silhouette: I actively manage a few popular Facebook groups - [WordPressians](https://www.facebook.com/groups/241884142616448), [Talk.js](https://www.facebook.com/groups/talkjs.net), [phpXperts](https://www.facebook.com/groups/256755924335725), [Laravel Bangladesh](https://www.facebook.com/groups/188317497974479), and [ReactJS Bangladesh](https://www.facebook.com/groups/903615493305779)
 
 ### Numbers
-![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![mrahmed17's Stats](https://github-readme-stats.vercel.app/api?username=mrahmed17&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
+![mrahmed17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrahmed17&theme=darcula&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![mrahmed17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmed17&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestoryteller/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hasin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/hasin)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrahmed17/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/)
 
 -->
  
