@@ -10,7 +10,7 @@
 
 - 🌱 Currently learning **"Web & Mobile App Development" at (CCSL) Center for Computer Studies Ltd. under IsDB-BISEW Scholarship Project**
 
-- 🔭 Currently I’m learning **Passionate Full Stack Java Developer, focusing on Angular, Spring Boot, Android, and Flutter. Solving complex problems and building robust applications.**
+- 🔭 :fireworks: **Passionate Full Stack Java Developer, focusing on Angular, Spring Boot, Android, and Flutter. Solving complex problems and building robust applications.**
 
 - 📫 Reach me **mrahmed1796@gmail.com**
 
@@ -65,6 +65,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="35" height="35" />
     </a>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+        
 <!--     <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="35" height="35" />
