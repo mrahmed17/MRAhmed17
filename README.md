@@ -8,7 +8,7 @@
         <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
         &nbsp;
         <p> <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed17"/> </p>
-[![](https://visitcount.itsvg.in/api?id=mrahmed17&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=mrahmed17&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 | About Me | Details |
