@@ -47,7 +47,7 @@
 
 <!-- - 📄 Know about my experiences [mrahmed.com](www.mrahmed.com) -->
 
-| Language and Tools |
+| Language | and | Tools |
 | ------------------ |
 |<h3 align="left">Languages and Tools:</h3>|
 |<p align="left">
