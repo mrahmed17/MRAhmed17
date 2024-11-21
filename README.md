@@ -48,7 +48,7 @@
 <!-- - 📄 Know about my experiences [mrahmed.com](www.mrahmed.com) -->
 
 | Language | and | Tools |
-| ------------------ |
+| ------- | ------- | ------- |
 |<h3 align="left">Languages and Tools:</h3>|
 |<p align="left">
 <a href="https://www.java.com" target="_blank" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></a>
