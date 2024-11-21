@@ -171,8 +171,8 @@
 
 ### Connect with Me
 
-| Platform | Link |
-| -------- | ---- |
+| Platform | Link | Platform | Link |
+| -------- | ---- | -------- | ---- |
 | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://fb.com/) | [Facebook](https://fb.com/) |
 | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://twitter.com/) | [Twitter](https://twitter.com/) |
 | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://linkedin.com/in/mrahmed17) | [LinkedIn](https://linkedin.com/in/mrahmed17) |
