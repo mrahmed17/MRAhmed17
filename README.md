@@ -178,10 +178,8 @@
 
 
 ### Life is a game of code
-| ### Life is a game of code |
 | ----------- | ----------- |
-| <img src="giphy0.webp" alt="coding" align="left" width="300px" height="200px"> |
-                <img src="giphy1.webp" alt="coding" align="right" width="300px" height="200px"> |
+| <img src="giphy0.webp" alt="coding" align="left" width="300px" height="200px"> | <img src="giphy1.webp" alt="coding" align="right" width="300px" height="200px"> |
 
 <!-- &nbsp; -->
 
