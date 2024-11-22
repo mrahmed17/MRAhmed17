@@ -69,19 +69,20 @@
 <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
 <a href="https://www.sqlite.org/" target="_blank" title="SQLite"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a >
 
-|               ### Fundamentals               |
-| -------------------------------------------- |
-![Computer Fundamentals](https://img.shields.io/badge/Computer%20Fundamentals-Informational?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+|               ### Fundamentals               | |           ### Programming Languages          |
+| -------------------------------------------- | | -------------------------------------------- |
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![XML](https://img.shields.io/badge/XML-8A2BE2?style=flat-square)
+| ![Computer Fundamentals](https://img.shields.io/badge/Computer%20Fundamentals-Informational?style=flat-square) |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | 
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | 
+| ![XML](https://img.shields.io/badge/XML-8A2BE2?style=flat-square) | 
 
 ### Front-End Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
