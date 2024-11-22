@@ -69,7 +69,8 @@
 <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
 <a href="https://www.sqlite.org/" target="_blank" title="SQLite"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a >
 
-### Fundamentals
+|               ### Fundamentals               |
+| -------------------------------------------- |
 ![Computer Fundamentals](https://img.shields.io/badge/Computer%20Fundamentals-Informational?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
