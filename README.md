@@ -171,19 +171,18 @@
 
 ### Connect with Me
 
-| Platform | Link |
-| -------- | ---- |
-| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://fb.com/) | [Facebook](https://fb.com/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://twitter.com/) | [Twitter](https://twitter.com/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://linkedin.com/in/mrahmed17) | [LinkedIn](https://linkedin.com/in/mrahmed17) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />](https://www.youtube.com/) | [YouTube](https://www.youtube.com/) |
+| Platform | Link | Platform | Link |
+| -------- | ---- | -------- | ---- |
+| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://fb.com/) | [Facebook](https://fb.com/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://twitter.com/) | [Twitter](https://twitter.com/) |
+| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://linkedin.com/in/mrahmed17) | [LinkedIn](https://linkedin.com/in/mrahmed17) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />](https://www.youtube.com/) | [YouTube](https://www.youtube.com/) |
+
 
 ### Life is a game of code
-<div class="row">
-        <div class="col-md-4">
-                <img src="giphy0.webp" alt="coding" align="left" width="300px" height="200px">
-        </div>
-        <div class="col-md-4">
-                <img src="giphy1.webp" alt="coding" align="right" width="300px" height="200px">
-        </div>
-</div>
+| ### Life is a game of code |
+| ----------- | ----------- |
+| <img src="giphy0.webp" alt="coding" align="left" width="300px" height="200px"> |
+                <img src="giphy1.webp" alt="coding" align="right" width="300px" height="200px"> |
+
 <!-- &nbsp; -->
 
 <!--<h3 align="left">Connect with me:</h3>
