@@ -68,7 +68,9 @@
 <a href="https://firebase.google.com/" target="_blank" title="Firebase"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35" /></a>
 <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
 <a href="https://www.sqlite.org/" target="_blank" title="SQLite"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a >
+        </p>
 
+<!--
 ### Fundamentals
 ![Computer Fundamentals](https://img.shields.io/badge/Computer%20Fundamentals-Informational?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -140,8 +142,7 @@
 ![Software Deployment](https://img.shields.io/badge/Software%20Deployment-FFA500?style=flat-square)
 ![Microsoft Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
-</p>
-
+-->
 
 # 📊 My GitHub Stats:
 
