@@ -146,9 +146,9 @@
 
 # 📊 My GitHub Stats:
 
-| Stats | Streak | Languages |
-| ----- | ------ | --------- |
-| ![MrAhmed17's Stats](https://github-readme-stats.vercel.app/api?username=mrahmed17&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![MRAhmed17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrahmed17&theme=dark&hide_border=false) | ![MRAhmed17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmed17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| Stats | Languages |
+| ----- | --------- |
+| ![MrAhmed17's Stats](https://github-readme-stats.vercel.app/api?username=mrahmed17&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![MRAhmed17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmed17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
 
 <!--| Stats | Streak | Languages |
@@ -172,9 +172,9 @@
 
 ### Connect with Me
 
-| Platform | Link | Platform | Link |
-| -------- | ---- | -------- | ---- |
-| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://fb.com/) | [Facebook](https://fb.com/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://twitter.com/) | [Twitter](https://twitter.com/) |
+| Streak | Platform | Link | Platform | Link |
+| ------ | -------- | ---- | -------- | ---- |
+| ![MRAhmed17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrahmed17&theme=dark&hide_border=false) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://fb.com/) | [Facebook](https://fb.com/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://twitter.com/) | [Twitter](https://twitter.com/) |
 | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://linkedin.com/in/mrahmed17) | [LinkedIn](https://linkedin.com/in/mrahmed17) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />](https://www.youtube.com/) | [YouTube](https://www.youtube.com/) |
 
 
