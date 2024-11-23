@@ -4,10 +4,8 @@
 <h1 align="center">I'm Md. Raju Ahmed</h1> 
 <h4 align="center">Programming Lover and Learner</h4>
 
-<div align="center">
-        <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
-        &nbsp;
-        <p> <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed17"/> </p>
+<div align="left">
+        <p> <a href='https://docs.github.com/en/developers'> <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed17"/> <img src="78XCFBGOlS6keY1Bil.webp" alt="coding" align="left" width="300px" height="200px"> 
 </div>
 
 | About Me | Details |
@@ -176,9 +174,6 @@
 | ------ | -------- | -------- | -------- | -------- |
 | ![MRAhmed17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrahmed17&theme=dark&hide_border=false) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://fb.com/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://twitter.com/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://linkedin.com/in/mrahmed17) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />](https://www.youtube.com/) |
 
-
-### Life is a game of code
-<img src="giphy0.webp" alt="coding" align="left" width="300px" height="200px"> <img src="giphy1.webp" alt="coding" align="right" width="300px" height="200px">
 
 <!-- &nbsp; -->
 
