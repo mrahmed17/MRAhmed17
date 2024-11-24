@@ -5,7 +5,7 @@
 
 | Dev Badge | Programming Lover and Learner | Count | 
 | -------- | --------------- | ------- |
-| <a href='https://docs.github.com/en/developers'> <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> | <img src="78XCFBGOlS6keY1Bil.webp" alt="coding" align="left" width="300px" height="200px"> | <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed17"/> | 
+| <a href='https://docs.github.com/en/developers'> <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> | <img src="78XCFBGOlS6keY1Bil.webp" alt="coding" width="300px" height="200px"> | <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed17"/> | 
 
 
 | About Me | Details |
