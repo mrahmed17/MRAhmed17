@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Md. Raju Ahmed</h1> 
 <!-- <h4 align="center"></h4> -->
 
-| Dev Badge | Mr. Gentleman the Programming Lover and Learner | Count | 
+| Dev Badge | Programming Lover and Learner | Count | 
 | -------- | --------------- | ------- |
 | <a href='https://docs.github.com/en/developers'> <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> | <img src="78XCFBGOlS6keY1Bil.webp" alt="coding" align="left" width="300px" height="200px"> | <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed17"/> | 
 
