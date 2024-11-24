@@ -1,7 +1,7 @@
 ![logo](https://github.com/mrahmed17/mrahmed17/blob/main/github-contribution-grid-snake-dark.svg)
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Md. Raju Ahmed</h1> 
-<!-- <h4 align="center"></h4> -->
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
+<!-- <h4 align="center"> I'm Md. Raju Ahmed</h4> -->
 
 | Dev Badge | Programming Lover and Learner | Count | 
 | -------- | --------------- | ------- |
