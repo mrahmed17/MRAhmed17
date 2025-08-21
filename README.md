@@ -9,7 +9,7 @@
 
 | About Me | Details |
 | -------- | ------- |
-| 🌱 Currently learning | **Web & Mobile App Development at (CCSL)**, under IsDB-BISEW Scholarship Project |
+| 🌱 Graduated | **Web & Mobile App Development at (CCSL)**, under IsDB-BISEW Scholarship Project |
 | 🔭 Interests | Full Stack JAVA Development, complex problem-solving |
 | 👯 Open to | Work and employment opportunities (office, remote, and relocation) |
 | 💬 Ask me about | **JAVA, Angular, Spring Boot, Android, Flutter** |
@@ -32,13 +32,12 @@
 -->
 
 <!--
-- 🌱 Currently learning **"Web & Mobile App Development" at (CCSL) Center for Computer Studies Ltd. under IsDB-BISEW Scholarship Project**
+- 🌱 Graduated **"Web & Mobile App Development" at (CCSL) Center for Computer Studies Ltd. under IsDB-BISEW Scholarship Project**
 - :fireworks: 🔭 **Passionate Full Stack JAVA Developer. Solving complex problems and building robust applications.**
 - :book: I’m currently learning many things, and I believe that every day is an opportunity to learn.
 - 👯 I’m currently open for work and employment opportunities (office, remote and relocation)
 - 💬 Ask me about JAVA, Angular, Spring Boot, Android, and Flutter development.
 - 📫 I am just one mail away - **mrahmed1796@gmail.com**
-- 😄 Pronouns: He, Mr. Gentleman & Happy 😄
 - :partying_face: Fun fact: I love to cook, I love to music, I love to travel on Train.
 -->
 
