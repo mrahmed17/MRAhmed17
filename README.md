@@ -1,189 +1,115 @@
+<div align="center">
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
-<!-- <h4 align="center"> I'm Md. Raju Ahmed</h4> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:F97316&height=190&section=header&text=Md.%20Raju%20Ahmed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Angular%20%7C%20Mobile%20Apps&descAlignY=58&descSize=16" width="100%" alt="Profile header" />
 
-| Dev Badge | Programming Lover and Learner | Count | 
-| -------- | --------------- | ------- |
-| <a href='https://docs.github.com/en/developers'> <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> | <img src="78XCFBGOlS6keY1Bil.webp" alt="coding" width="300px" height="200px"> | <img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0e75b6&style=flat" alt="MRAhmed17"/> | 
-
-
-| About Me | Details |
-| -------- | ------- |
-| 🌱 Graduated | **Web & Mobile App Development at (CCSL)**, under IsDB-BISEW Scholarship Project |
-| 🔭 Interests | Full Stack JAVA Development, complex problem-solving |
-| 👯 Open to | Work and employment opportunities (office, remote, and relocation) |
-| 💬 Ask me about | **JAVA, Angular, Spring Boot, Android, Flutter** |
-| 📫 Reach me at | **mrahmed1796@gmail.com** |
-| 😄 Pronouns | He, Mr. Gentleman & Happy 😄 |
-| 🎉 Fun fact | Cooking, Music, and Train Travel Enthusiast |
-
-<!--
-### Languages and Tools
-
-| Category      | Skills                                  |
-| ------------- | --------------------------------------- |
-| **Languages** | Java, JavaScript, TypeScript, XML       |
-| **Front-End** | HTML5, CSS3, Bootstrap, JavaScript, Angular |
-| **Back-End**  | Core Java, Advanced Java, Spring Boot, Spring MVC, JPA, Hibernate |
-| **Databases** | MySQL, Oracle, Firebase, NoSQL, SQLite |
-| **Mobile**    | Android, Flutter, Swing, JSF           |
-| **Development Tools** | Git, GitHub, Eclipse, XAMPP, Postman |
-| **Debugging Tools**   | Chrome DevTools, Microsoft Edge DevTools |
--->
-
-<!--
-- 🌱 Graduated **"Web & Mobile App Development" at (CCSL) Center for Computer Studies Ltd. under IsDB-BISEW Scholarship Project**
-- :fireworks: 🔭 **Passionate Full Stack JAVA Developer. Solving complex problems and building robust applications.**
-- :book: I’m currently learning many things, and I believe that every day is an opportunity to learn.
-- 👯 I’m currently open for work and employment opportunities (office, remote and relocation)
-- 💬 Ask me about JAVA, Angular, Spring Boot, Android, and Flutter development.
-- 📫 I am just one mail away - **mrahmed1796@gmail.com**
-- :partying_face: Fun fact: I love to cook, I love to music, I love to travel on Train.
--->
-
-<!-- - 📄 Know about my experiences [mrahmed.com](www.mrahmed.com) -->
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com" target="_blank" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></a>
-<a href="https://spring.io/" target="_blank" title="Spring"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/></a>
-<a href="https://postman.com" target="_blank" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/></a>
-<a href="https://angular.io" target="_blank" title="Angular"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="35" height="35"/></a>
-<a href="https://flutter.dev" target="_blank" title="Flutter"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/></a>
-<a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></a>
-<a href="https://www.oracle.com/" target="_blank" title="Oracle"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="35" height="35"/></a>
-<a href="https://dart.dev" target="_blank" title="Dart"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35" height="35"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=860&lines=I+build+clean+web+and+mobile+applications;Java+%2B+Spring+Boot+%2B+Angular;Android+%2B+Flutter+enthusiast;Always+learning%2C+shipping%2C+and+improving" alt="Typing animation" />
 </a>
-<a href="https://flutter.dev" target="_blank" title="Flutter"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a>
-<a href="https://www.w3.org/html/" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></a>
-<a href="https://getbootstrap.com" target="_blank" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
-<a href="https://firebase.google.com/" target="_blank" title="Firebase"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35" /></a>
-<a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
-<a href="https://www.sqlite.org/" target="_blank" title="SQLite"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a >
-        </p>
 
-<!--
-### Fundamentals
-![Computer Fundamentals](https://img.shields.io/badge/Computer%20Fundamentals-Informational?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br />
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![XML](https://img.shields.io/badge/XML-8A2BE2?style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=mrahmed17&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Open%20to-Work%20%7C%20Remote%20%7C%20Relocation-22c55e?style=for-the-badge" alt="Open to work" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Java-f97316?style=for-the-badge" alt="Focus" />
 
-### Front-End Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+</div>
 
-### Back-End Development
-![Core Java](https://img.shields.io/badge/Core%20Java-007396?style=flat-square&logo=java&logoColor=white)
-![Advanced Java](https://img.shields.io/badge/Advanced%20Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-FF7800?style=flat-square)
-![Java Servlets](https://img.shields.io/badge/Java%20Servlets-3C873A?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-4285F4?style=flat-square)
+<br />
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![NoSQL](https://img.shields.io/badge/NoSQL-FF6C37?style=flat-square&logo=nosql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h2>About Me</h2>
+      <p>
+        I am a Full Stack Java Developer focused on building practical, maintainable web and mobile applications.
+        My core stack includes Java, Spring Boot, Angular, Android, and Flutter.
+      </p>
+      <ul>
+        <li>Graduated in Web &amp; Mobile App Development at CCSL under the IsDB-BISEW Scholarship Project</li>
+        <li>Interested in clean architecture, REST APIs, database-backed applications, and problem solving</li>
+        <li>Open to office, remote, and relocation-based opportunities</li>
+        <li>Ask me about Java, Angular, Spring Boot, Android, and Flutter</li>
+        <li>Fun side: cooking, music, and train travel</li>
+      </ul>
+    </td>
+    <td width="42%" align="center" valign="top">
+      <img src="./giphy.gif" width="360" alt="Developer workspace animation" />
+      <br /><br />
+      <a href="mailto:mrahmed1796@gmail.com">
+        <img src="https://img.shields.io/badge/Email-mrahmed1796%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/in/mrahmed17">
+        <img src="https://img.shields.io/badge/LinkedIn-mrahmed17-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <br />
+      <a href="https://github.com/mrahmed17">
+        <img src="https://img.shields.io/badge/GitHub-mrahmed17-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### Mobile & UI Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white)
-![JSF](https://img.shields.io/badge/JSF-007396?style=flat-square&logo=java&logoColor=white)
+## Tech Stack
 
-### Design & Architecture
-![UML](https://img.shields.io/badge/UML-008080?style=flat-square)
-![Pro Spring](https://img.shields.io/badge/Pro%20Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<div align="center">
 
-### Software Development Concepts
-![MVC](https://img.shields.io/badge/MVC-008080?style=flat-square)
-![API](https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=api&logoColor=white)
-![Java Web Applications](https://img.shields.io/badge/Java%20Web%20Applications-007396?style=flat-square&logo=java&logoColor=white)
-![Business Logic](https://img.shields.io/badge/Business%20Logic-FFA500?style=flat-square)
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,ts,js,html,css,bootstrap,flutter,dart,androidstudio,mysql,sqlite,firebase,git,github,postman,eclipse&perline=10" alt="Tech stack icons" />
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
-### Debugging Tools
-![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-![Microsoft Edge DevTools](https://img.shields.io/badge/Edge%20DevTools-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white)
+<br />
 
-### Other Skills
-![Code Review](https://img.shields.io/badge/Code%20Review-008080?style=flat-square)
-![Software Deployment](https://img.shields.io/badge/Software%20Deployment-FFA500?style=flat-square)
-![Microsoft Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+| Area | Tools & Skills |
+| --- | --- |
+| Backend | Core Java, Advanced Java, Spring Boot, Spring MVC, JPA, Hibernate, REST APIs |
+| Frontend | HTML5, CSS3, Bootstrap, JavaScript, TypeScript, Angular |
+| Mobile | Android, Flutter, Dart |
+| Database | MySQL, Oracle, Firebase, NoSQL, SQLite |
+| Tools | Git, GitHub, Eclipse, XAMPP, Postman, Chrome DevTools, Microsoft Edge DevTools |
+| Concepts | MVC, API design, business logic, UML, code review, deployment |
 
--->
+## GitHub Analytics
 
-# 📊 My GitHub Stats:
+<div align="center">
 
-| Stats | Languages |
-| ----- | --------- |
-| ![MrAhmed17's Stats](https://github-readme-stats.vercel.app/api?username=mrahmed17&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![MRAhmed17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmed17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmed17&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
+<br />
 
-<!--| Stats | Streak | Languages |
-| ----- | ------ | --------- |
-| ![MRAhmed17's Stats](https://github-readme-stats.vercel.app/api?username=mrahmed17&theme=darcula&show_icons=true&hide_border=true&count_private=true) | ![mrahmed17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrahmed17&theme=darcula&hide_border=true) | ![mrahmed17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmed17&theme=darcula&show_icons=true&hide_border=true&layout=compact) |
--->
+<img src="https://streak-stats.demolab.com?user=mrahmed17&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
+<br />
 
-<!--### Numbers
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrahmed17)
- ![MRAhmed17's Stats](https://github-readme-stats.vercel.app/api?username=mrahmed17&theme=darcula&show_icons=true&hide_border=true&count_private=true)
- ![mrahmed17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrahmed17&theme=darcula&hide_border=true)
- ![mrahmed17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmed17&theme=darcula&show_icons=true&hide_border=true&layout=compact)
- -->
- 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahmed17&show_icons=true&locale=en&layout=compact" alt="Md. Raju Ahmed"/> --> 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahmed17&show_icons=true&locale=en" alt="Md. Raju Ahmed" /> -->
-<!--  &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mrahmed17)  -->
-<!-- &nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mrahmed17) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrahmed17&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
+</div>
 
-### Connect with Me
+## Contribution Flow
 
-| Streak | Platform | Platform | Platform | Platform |
-| ------ | -------- | -------- | -------- | -------- |
-| ![MRAhmed17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrahmed17&theme=dark&hide_border=false) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://fb.com/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://twitter.com/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /> ](https://linkedin.com/in/mrahmed17) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />](https://www.youtube.com/) |
+<div align="center">
 
-![logo](https://github.com/mrahmed17/mrahmed17/blob/main/github-contribution-grid-snake-dark.svg)
+<img src="./github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
+</div>
 
-<!-- &nbsp; -->
+## Connect
 
-<!--<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a>  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a> <a href="https://linkedin.com/in/mrahmed17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Raju Ahmed" height="30" width="40" /></a> <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a> </p>
--->
+<div align="center">
 
-<!-- 
-### Where to find me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrahmed17/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/)
--->
+<a href="mailto:mrahmed1796@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
+</a>
+<a href="https://www.linkedin.com/in/mrahmed17">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="https://github.com/mrahmed17">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:7C3AED,100:0EA5E9&height=110&section=footer" width="100%" alt="Footer wave" />
+
+</div>
